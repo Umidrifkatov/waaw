@@ -5,6 +5,7 @@ __pycache__/
 __init__.py
 static/admin/
 media/
+migrations/
 # C extensions
 *.so
 .vscode

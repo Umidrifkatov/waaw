@@ -23,4 +23,5 @@ urlpatterns = [
     path('contest', views.contest, name='contest'),
     path('features', views.plan, name='plan'),
     path('more', views.more, name='more'),
+    path('contestlive', views.contestlive, name='live'),
 ]
